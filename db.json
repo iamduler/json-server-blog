@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "description": "This is the first post",
+      "featuredImage": "https://images.unsplash.com/photo-1743924403751-464fc5136a51?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "publishDate": "2025-06-11",
+      "published": true,
+      "title": "Post 3",
+      "id": "3"
+    },
+    {
+      "description": "This is the second post",
+      "featuredImage": "https://placehold.co/600x400",
+      "publishDate": "2025-06-05",
+      "published": true,
+      "title": "Post 4",
+      "id": "4"
+    },
+    {
+      "id": "feb7",
+      "description": "This is the first post",
+      "featuredImage": "https://placehold.co/600x400",
+      "publishDate": "2025-06-28",
+      "published": true,
+      "title": "Post 5"
+    },
+    {
+      "id": "feb6",
+      "title": "Anh 1",
+      "description": "haha",
+      "publishDate": "2025-07-26",
+      "featuredImage": "https://plus.unsplash.com/premium_photo-1750681051145-45991d0693ee?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "published": true
+    },
+    {
+      "id": "d91b",
+      "title": "Image 6666",
+      "description": "1231231",
+      "publishDate": "2025-07-20",
+      "featuredImage": "https://plus.unsplash.com/premium_photo-1750681050270-504858a9261a?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "published": true
+    }
+  ]
+}
